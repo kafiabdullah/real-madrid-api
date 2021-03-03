@@ -1,0 +1,28 @@
+{
+    "players": [
+        {"id": 1, "name": "Ronaldo", "price": 105, "image": "hhttps://res.cloudinary.com/de7sncenm/image/upload/v1614704521/real%20madrir%20freek/cr7-2_logxwu.jpg"},
+
+        {"id": 2, "name": "Karim Benzema", "price": 80, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704520/real%20madrir%20freek/benzema_xswegx.jpg"},
+
+        {"id": 3, "name": "Robert Lewandowski", "price": 100, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704521/real%20madrir%20freek/lewandeski_mcxrs3.jpg"},
+
+        {"id": 4, "name": "Kylian Mbappe", "price": 120, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704521/real%20madrir%20freek/bappy_rcauiy.jpg"},
+
+        {"id": 5, "name": "Neymar", "price": 110, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704522/real%20madrir%20freek/naymar_xvb4vt.jpg"},
+
+        {"id": 6, "name": "Mohaned Salah", "price": 90, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704524/real%20madrir%20freek/salah_areeup.jpg"},
+
+        {"id": 7, "name": "Sergio Ramos", "price": 95, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704524/real%20madrir%20freek/ramos_czfl8d.png"},
+
+        {"id": 8, "name": "Toni Kross", "price": 50, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704523/real%20madrir%20freek/toni_gzugar.jpg"},
+
+        {"id": 9, "name": "Zalatan Ibrahimovic", "price": 75, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704524/real%20madrir%20freek/zalatan_frc3ex.jpg"},
+
+        {"id": 10, "name": "Mesut Ozil", "price": 65, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704523/real%20madrir%20freek/ozil_bhquj9.jpg"},
+
+        {"id": 11, "name": "Manuel Neuer", "price": 45, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704522/real%20madrir%20freek/nuyer_y4hta4.jpg"},
+
+        {"id": 12, "name": "Eden Hazard", "price": 115, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704522/real%20madrir%20freek/hazard_t6qwko.png"}
+        
+    ]
+}
