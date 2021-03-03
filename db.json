@@ -1,6 +1,6 @@
 {
     "players": [
-        {"id": 1, "name": "Ronaldo", "price": 105, "image": "hhttps://res.cloudinary.com/de7sncenm/image/upload/v1614704521/real%20madrir%20freek/cr7-2_logxwu.jpg"},
+        {"id": 1, "name": "Ronaldo", "price": 105, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704521/real%20madrir%20freek/cr7-2_logxwu.jpg"},
 
         {"id": 2, "name": "Karim Benzema", "price": 80, "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1614704520/real%20madrir%20freek/benzema_xswegx.jpg"},
 
